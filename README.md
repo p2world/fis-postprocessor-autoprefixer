@@ -1,6 +1,6 @@
 # fis-postprocessor-autoprefixer
 
-an postprocessor for fis to autoprefixer css with [postcss/autoprefixer](https://github.com/postcss/autoprefixer)
+a postprocessor for fis to autoprefixer css with [postcss/autoprefixer](https://github.com/postcss/autoprefixer)
 
 1. install fis-postprocessor-autoprefixer
 ```bash
