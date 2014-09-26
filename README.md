@@ -16,7 +16,7 @@ fis.config.merge({
     settings : {
         postprocessor : {
           autoprefixer : {
-              // detail : https://github.com/postcss/autoprefixer#browsers
+              // detail config (https://github.com/postcss/autoprefixer#browsers)
               "browsers": ["Android >= 2.3", "ChromeAndroid > 1%", "iOS >= 4"],
               "cascade": true
             }
