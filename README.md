@@ -4,7 +4,7 @@ a postprocessor for fis to autoprefixer css with [postcss/autoprefixer](https://
 
 1. install fis-postprocessor-autoprefixer
 ```bash
-npm install -g fis-optimizer-shutup
+npm install -g fis-postprocessor-autoprefixer
 ```
 2. modify fis-conf.js
 ```javascript
